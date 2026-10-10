@@ -1,0 +1,1 @@
+This a EASY sercher in dump for il2cpp/Android for Windows 10/11 with Python. It takes a dump opens it and searches using the patterns you entered; it supports regex, case-insensitive matching, and string literal searches. It also provides context—displaying the lines adjacent to the search result and allows you to save the output to a .txt file.
